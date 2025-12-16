@@ -17,7 +17,8 @@ El objetivo principal fue diseñar un dashboard capaz de responder las preguntas
 - Identificar patrones de recencia, frecuencia y valor.
 - Proponer acciones concretas para mejorar retención y ventas.
 
-** Preguntas Clave **
+**Preguntas Clave**
+
 FIDELIDAD:
 ¿Cómo definimos a un cliente “fiel” en este modelo?
 ¿Qué porcentaje de las ventas depende realmente de los clientes fieles?
@@ -75,7 +76,7 @@ Jerarquía visual clara (salud general, segmentación, riesgo, oportunidad).
 
 
 
-** Insights Principales**
+**Insights Principales**
  
 1. Dependencia de unos pocos clientes 
 El 15% de los clientes aporta el 60% de los ingresos.
@@ -121,7 +122,8 @@ Los clientes fieles aportan estabilidad al negocio: sus ingresos se mantienen co
 
 
 
-** Recomendaciones **
+**Recomendaciones**
+
 1- Proteger ingresos en los primeros 60 días
 Priorizar acciones de retención durante los primeros 60 días del cliente para reducir el abandono temprano y proteger los ingresos recurrentes
 2- Reducir la dependencia de descuentos en clientes fieles
